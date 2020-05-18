@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hasansino/go-intersect.svg?branch=master)](https://travis-ci.org/hasansino/go-intersect)
+
 # go-intersect
 Simple array intersection using hash maps.
 
@@ -18,7 +20,7 @@ var (
 c := intersect.Int64(a, b)
 ```
 
-Two methods are available `String()` and `Int64()`
+Two methods are available: `String()` and `Int64()`
 
 # Performance
 
