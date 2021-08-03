@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/hasansino/go-intersect.svg?branch=master)](https://travis-ci.org/hasansino/go-intersect)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hasansino/go-intersect)](https://goreportcard.com/report/github.com/hasansino/go-intersect)
+[![Build Status](https://travis-ci.com/hasansino/go-intersect.svg?branch=master)](https://travis-ci.com/hasansino/go-intersect)
 
 # go-intersect
+
 Simple array intersection using hash maps.
 
 # Installation
